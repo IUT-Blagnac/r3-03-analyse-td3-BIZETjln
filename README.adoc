@@ -12,6 +12,7 @@ image::artifacts-r303.svg[width=120%,pdfwidth=60%,link="https://github.com/xblan
 == Exigences
 
 Voici la liste des exigences de départ :
+liste
 
 === 1 -- HelloWorld 
 
